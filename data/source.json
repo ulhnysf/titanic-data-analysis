@@ -1,0 +1,14 @@
+{
+  "title": "Titanic Dataset",
+  "publisher": "Yasser H",
+  "source_url": "https://www.kaggle.com/datasets/yasserh/titanic-dataset",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/yasserh/titanic-dataset",
+  "upstream_url": "https://www.kaggle.com/competitions/titanic/data",
+  "version": 1,
+  "retrieved_on": "2026-10-13",
+  "source_filename": "Titanic-Dataset.csv",
+  "repository_filename": "titanic.csv",
+  "license": "CC0: Public Domain (Kaggle dataset metadata)",
+  "rows": 891,
+  "sha256": "7d118fef8b6ccf7f81111877bc388536f7b1e498a655e3d649d19aaa010e9f6f"
+}
